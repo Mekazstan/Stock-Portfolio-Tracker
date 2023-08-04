@@ -1,5 +1,5 @@
 # Stock Portfolio Tracker
-The Stock Portfolio Tracker is a Python program that allows users to track their stock portfolio easily. It leverages SQLite to store and manage data related to the user's stocks. The program provides functionalities to create/update a portfolio and view an existing portfolio.
+The Stock Portfolio Tracker is a Python program that allows users to track their stock portfolio easily. It leverages SQLite to store and manage data related to the user's stocks. The program provides functionalities to create/update a portfolio and view an existing portfolio all using your COMMAND LINE INTERFACE.
 
 ### Prerequisites
 Before running the Stock Portfolio Tracker, ensure that you have the necessary libraries installed. You can install them using the following commands:
