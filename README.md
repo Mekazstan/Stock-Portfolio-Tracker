@@ -18,6 +18,12 @@ If you choose to create/update the portfolio, you will be prompted to input the 
 
 If you choose to view the existing portfolio, the program will fetch the data from the database, retrieve the latest price information for each stock, calculate the portfolio value, and display a summary of the portfolio with relevant details.
 
+
+#### Here is a preview of the output.
+
+![output](https://github.com/Mekazstan/Stock-Portfolio-Tracker/assets/101509899/d752a038-58da-4635-9d91-d8f93c4f8b2b)
+
+
 ### Note
 Ensure you have a stable internet connection as the program may interact with external APIs to retrieve stock prices and currency exchange rates.
 
